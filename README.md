@@ -1,4 +1,4 @@
-# Philippine Consumer Equity Index Fund - A Fund Overview and Recommendation
+# Philippine Consumer Equity Index Fund - Fund Performance
 
 # Executive overview
 
@@ -8,7 +8,7 @@ It also experiences a lot of ups and downs, making it feel unstable and unpredic
 
 
 # Problem Statement
-How will Philippine Consumer Equity Index Fund recovery from its challenges from 2020-2024 performance moving forward?
+The fund has been unstable and slow to grow in recent years, and the goal is to find ways to make it more steady, resilient, and consistently improving for investors.
 
 
 # Data
@@ -23,86 +23,85 @@ The data for the Annual Risk Return and Subsector Percentages Assumed are upload
 - Kaggle
 - Investopedia
 
+
+<img width="1511" height="842" alt="image" src="https://github.com/user-attachments/assets/c4c77ddf-434a-48d4-b2e9-52f79c1a76f1" />
+
+
+
 2020
 
 Return: The fund ended the year lower than it started.
+
 Max Drawdown: It experienced its biggest and deepest drop here, showing how hard the pandemic hit the fund.
+
 Volatility: This was the bumpiest and most unstable year, with a lot of sharp ups and downs.
 
 2021
 
 Return: The fund still did not recover and ended the year below where it began.
+
 Max Drawdown: It had a smaller drop than 2020, but the decline was still noticeable.
+
 Volatility: The ride was calmer than 2020 but still not smooth.
 
 
 2022
 
 Return: The fund again finished the year lower, showing continued difficulty.
+
 Max Drawdown: It experienced another significant fall at some point in the year.
+
 Volatility: Movements were still uneven, with noticeable ups and downs.
 
 
 2023
 
 Return: The fund still ended the year in negative territory.
+
 Max Drawdown: It had another drop, though not as severe as the pandemic year.
+
 Volatility: This was one of the steadier years, with fewer dramatic swings compared to 2020–2022.
 
 
 2024 (YTD)
 
 Return: The fund started the year with a slight improvement.
+
 Max Drawdown: Only a very small dip so far.
+
 Volatility: Mild movements, but the year is still just beginning.
 
 
-# Insights and Recommendations
+
+
+# Insights
+
+- Returns were negative in 2020, 2021, 2022, and 2023
+
+Solution: Add stronger, more resilient companies so the fund can grow more reliably instead of ending most years below where it started.
+(Data: All four years posted negative returns.)
+
+- Max Drawdown showed big drops—especially in 2020 and again in 2021–2023
+
+Solution: Reduce exposure to the most sensitive consumer areas (like entertainment and cyclic retail) and increase exposure to essential goods (like food and household products) to soften future drops.
+(Data: Worst declines reached deep levels in multiple years.)
+
+- Annual Volatility was high across most years (showing an unstable ride)
+   
+Solution: Add steadier companies, avoid heavy concentration in jumpy names, and rebalance toward more predictable subsectors to smooth out the fund’s ups and downs.
+(Data: Volatility stayed elevated in 2020–2023 before slightly improving.)
+
+# Recommendation
 
 ## Choose better companies to include in the fund 
 
 Think of the fund like a basket of items. If some items keep going bad, the basket won’t look good.
 The fund needs to replace weaker companies with stronger, more promising ones.
 
-Current companies:
-
-<img width="702" height="646" alt="image" src="https://github.com/user-attachments/assets/7ef521e6-3bf7-4767-a985-09874a42508d" />
-
 Choices you can consider:
 
-<img width="795" height="765" alt="image" src="https://github.com/user-attachments/assets/e82997a6-f326-4ed2-9e26-ae6eb08705b5" />
-
-## Keep the basket updated more often
-The world changes fast. The fund needs regular check‑ups so it doesn’t get stuck holding companies that no longer fit today’s consumer trends.
-
-Here are the visual POV of how much consumer are there really is per sector of this fund since 2020 and their subsector categories.
-
-<img width="542" height="377" alt="Screenshot 2026-02-28 151536" src="https://github.com/user-attachments/assets/69626d22-ffb3-4b7c-9f0a-586fbd7505ff" />
-<img width="534" height="386" alt="Screenshot 2026-02-28 151527" src="https://github.com/user-attachments/assets/344836c1-3744-4f17-bb02-919aa5dc128e" />
-<img width="517" height="372" alt="Screenshot 2026-02-28 151516" src="https://github.com/user-attachments/assets/be922a93-0bd2-497d-8473-b56ca1b33786" />
-<img width="491" height="374" alt="Screenshot 2026-02-28 151508" src="https://github.com/user-attachments/assets/07fe8cc0-e911-4463-bb3d-f1028c03d859" />
-<img width="456" height="381" alt="Screenshot 2026-02-28 151500" src="https://github.com/user-attachments/assets/72d2c8bf-8c20-46c2-8e66-d4df63eb0c62" />
-<img width="551" height="368" alt="Screenshot 2026-02-28 151416" src="https://github.com/user-attachments/assets/732753d3-4448-46ed-a593-eba089a75329" />
-<img width="553" height="364" alt="Screenshot 2026-02-28 151356" src="https://github.com/user-attachments/assets/2cba9002-e534-46c9-b00d-994e1c7b07ce" />
-
-Codes guide:
-
-<img width="372" height="257" alt="image" src="https://github.com/user-attachments/assets/3ffecf82-eda9-43a7-a382-4e88ea882cb9" />
-
-
-
-
-What we learned about these graphs?
-These tells us that the consumers are spending more on Consumer Staples—the everyday needs.
-
-## Focus on companies that match what consumers want today
-Things people buy have changed a lot since 2020. And based on our graphs the strongest environment are the Consumer Staples. If the fund could shift toward these businesses environment, it may recuperate easily.
-(e.g., essentials, digital‑based consumer brands).
-
-## Communicate a clearer direction to investors
-Investors feel more confident when the fund has a clear plan. Sharing a simple “here’s how we’re improving” message helps rebuild trust.
-
-
+“Competency level” is expressed as a simple percentage return.
+<img width="835" height="229" alt="image" src="https://github.com/user-attachments/assets/e9f5a1e1-4444-49af-878d-338aa1bb8b23" />
 
 
 
@@ -129,7 +128,7 @@ Investors feel more confident when the fund has a clear plan. Sharing a simple �
   
   Consumer Staples - Businesses sell things people need no matter what happens.
 
-  ## What Is a Fund?
+## What Is a Fund?
 A fund is basically a big money pool.
 People put their money together in one large pot, and a professional (called a fund manager) uses that money to buy things like stocks, bonds, or other investments.
 
