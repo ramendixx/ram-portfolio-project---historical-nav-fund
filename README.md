@@ -1,63 +1,19 @@
 # Philippine Consumer Equity Index Fund - A Fund Overview and Recommendation
 
-# Problem Statement
+# Executive overview
+
 The Philippine Consumer Equity Index Fund has been having a difficult time for the past several years.
 
 It also experiences a lot of ups and downs, making it feel unstable and unpredictable. This means that people who invest in it may feel like they’re riding a bumpy road—never quite sure if things will improve. It needs careful review and improvements so it can finally get back on track.
 
-In this fund overview, we will simplify the analysis of the fund performance based on its 2020-2024 data and focus on how it will recovery from its challenges moving forward.
 
-## What we know 
-Short answer: The fund is under performing from 2020-2024
+# Problem Statement
+How will Philippine Consumer Equity Index Fund recovery from its challenges from 2020-2024 performance moving forward?
 
-## What we don't know
-Short answer: The causes
-
-## Why we need to know
-Short answer: To improve the performance moving forward
-
-## How to know it
-Short answer: Diving in through its historical data
-
-
-
-
-Disclaimer: Some values and contents are manually added and does not claim as the accurate information of the fund.
 
 # Data
 The data used here is the historcal NAV file of 33 BPI Funds extracted from Kaggle https://www.kaggle.com/datasets/bwandowando/bpi-investment-funds-daily-data.
 The data for the Annual Risk Return and Subsector Percentages Assumed are uploaded in this porfolio.
-
-## What Is a Fund?
-A fund is basically a big money pool.
-People put their money together in one large pot, and a professional (called a fund manager) uses that money to buy things like stocks, bonds, or other investments.
-
-Think of it like a Group Shopping Basket
-
-Imagine you and your friends want to buy something expensive — like a big basket of groceries.
-Instead of each person buying things alone, everyone chips in:
-
-- You put in a little
-- Others put in a little
-- Together, you can buy more and better variety
-
-That’s what a fund does:
-It lets many people invest together instead of investing alone.
-
-Now what is an EQUITY INDEX FUND?
-
-Equity = Means owning a piece of a company.
-
-Index = A list of companies.
-
-Equity Index Fund = A fund that copies that list.
-
-Now put it all together:
-
-An Equity Index Fund is a shared money pool that buys tiny pieces of all the companies in a specific list (index).
-
-- It does not try to guess which companies will do well.
-- It simply follows the list — like following a recipe exactly.
 
 # Methodology
 
@@ -67,7 +23,7 @@ I used excel to clean the file by fixing the headers, spaces, capitalization, an
 <img width="1892" height="858" alt="Screenshot 2026-02-26 193811" src="https://github.com/user-attachments/assets/09b2a68b-2f4f-4776-b0d1-a7a68440bf2b" />
 
 
-With the help CoPilot AI, I was able to extract the funds that are under performing. In this way, we can easily digest the data, pick one fund, and create the problem.
+With the help CoPilot AI, it was able to extract the funds that are under performing. In this way, we can easily digest the data, pick one fund, and create the problem.
 
 <img width="1529" height="1077" alt="Screenshot 2026-02-26 194145" src="https://github.com/user-attachments/assets/d2606820-e581-4165-be0d-0c645b70ef80" />
 
@@ -124,7 +80,7 @@ It’s like seeing sunshine after days of rain—you hope it continues, but you 
 
 # Insights and Recommendations
 
-## Choose better companies to include in the fund
+## Choose better companies to include in the fund 
 
 Think of the fund like a basket of items. If some items keep going bad, the basket won’t look good.
 The fund needs to replace weaker companies with stronger, more promising ones.
@@ -132,9 +88,6 @@ The fund needs to replace weaker companies with stronger, more promising ones.
 Current companies:
 
 <img width="702" height="646" alt="image" src="https://github.com/user-attachments/assets/7ef521e6-3bf7-4767-a985-09874a42508d" />
-
-## Adjust the mix to make it less shaky
-The fund has been too bumpy. Choosing companies that are more stable can help smooth out that ride.
 
 Choices you can consider:
 
@@ -150,7 +103,6 @@ Here are the visual POV of how much consumer are there really is per sector of t
 <img width="517" height="372" alt="Screenshot 2026-02-28 151516" src="https://github.com/user-attachments/assets/be922a93-0bd2-497d-8473-b56ca1b33786" />
 <img width="491" height="374" alt="Screenshot 2026-02-28 151508" src="https://github.com/user-attachments/assets/07fe8cc0-e911-4463-bb3d-f1028c03d859" />
 <img width="456" height="381" alt="Screenshot 2026-02-28 151500" src="https://github.com/user-attachments/assets/72d2c8bf-8c20-46c2-8e66-d4df63eb0c62" />
-<img width="542" height="367" alt="Screenshot 2026-02-28 151429" src="https://github.com/user-attachments/assets/1f1cd82c-976f-41ab-a2d6-aa08db8dd790" />
 <img width="551" height="368" alt="Screenshot 2026-02-28 151416" src="https://github.com/user-attachments/assets/732753d3-4448-46ed-a593-eba089a75329" />
 <img width="553" height="364" alt="Screenshot 2026-02-28 151356" src="https://github.com/user-attachments/assets/2cba9002-e534-46c9-b00d-994e1c7b07ce" />
 
@@ -176,7 +128,7 @@ Investors feel more confident when the fund has a clear plan. Sharing a simple �
 
 
 
-# Dictionary
+# Appendix
 
   Net Asset Value (NAV) - the price of one share of a fund.
 
@@ -197,5 +149,37 @@ Investors feel more confident when the fund has a clear plan. Sharing a simple �
   Consumer Discretionary - Businesses sell things people want, but don’t need to survive.
   
   Consumer Staples - Businesses sell things people need no matter what happens.
+
+  ## What Is a Fund?
+A fund is basically a big money pool.
+People put their money together in one large pot, and a professional (called a fund manager) uses that money to buy things like stocks, bonds, or other investments.
+
+Think of it like a Group Shopping Basket
+
+Imagine you and your friends want to buy something expensive — like a big basket of groceries.
+Instead of each person buying things alone, everyone chips in:
+
+- You put in a little
+- Others put in a little
+- Together, you can buy more and better variety
+
+That’s what a fund does:
+It lets many people invest together instead of investing alone.
+
+Now what is an EQUITY INDEX FUND?
+
+Equity = Means owning a piece of a company.
+
+Index = A list of companies.
+
+Equity Index Fund = A fund that copies that list.
+
+Now put it all together:
+
+An Equity Index Fund is a shared money pool that buys tiny pieces of all the companies in a specific list (index).
+
+- It does not try to guess which companies will do well.
+- It simply follows the list — like following a recipe exactly.
+
 
   
