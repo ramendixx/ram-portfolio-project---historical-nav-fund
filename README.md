@@ -24,13 +24,13 @@ The data for the Annual Risk Return and Subsector Percentages Assumed are upload
 - Investopedia
 
 
-<img width="1511" height="842" alt="image" src="https://github.com/user-attachments/assets/c4c77ddf-434a-48d4-b2e9-52f79c1a76f1" />
+<img width="1255" height="706" alt="image" src="https://github.com/user-attachments/assets/736c2511-13c6-47fa-87be-cf55433fcb34" />
 
 
+
+# Highlights
 
 2020
-
-Return: The fund ended the year lower than it started.
 
 Max Drawdown: It experienced its biggest and deepest drop here, showing how hard the pandemic hit the fund.
 
@@ -38,7 +38,7 @@ Volatility: This was the bumpiest and most unstable year, with a lot of sharp up
 
 2021
 
-Return: The fund still did not recover and ended the year below where it began.
+Return: The fund still did not recover and ended the year below.
 
 Max Drawdown: It had a smaller drop than 2020, but the decline was still noticeable.
 
@@ -48,10 +48,6 @@ Volatility: The ride was calmer than 2020 but still not smooth.
 2022
 
 Return: The fund again finished the year lower, showing continued difficulty.
-
-Max Drawdown: It experienced another significant fall at some point in the year.
-
-Volatility: Movements were still uneven, with noticeable ups and downs.
 
 
 2023
