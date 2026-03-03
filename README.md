@@ -8,7 +8,7 @@ It also experiences a lot of ups and downs, making it feel unstable and unpredic
 
 
 # Problem Statement
-The current equity return is -0.32%. This should be at least a positive 3%.
+The current equity return is -10.15%. This should be at least a positive 3%.
 
 
 # Data
@@ -28,13 +28,15 @@ The data used here is the historcal NAV file of 33 BPI Funds extracted from Kagg
 
 
 
-<img width="1384" height="780" alt="image" src="https://github.com/user-attachments/assets/93e98cd8-b434-4de8-8142-8a93fdfd1498" />
+<img width="1381" height="770" alt="image" src="https://github.com/user-attachments/assets/0822db85-579d-42d0-8dbd-e371ff8d41f8" />
 
 
 
 
 
-<img width="469" height="225" alt="image" src="https://github.com/user-attachments/assets/1a7835d2-756d-454f-a716-17a99ad5b460" />
+
+<img width="468" height="229" alt="image" src="https://github.com/user-attachments/assets/cc4ce037-5bf7-4c47-a118-8ef54d15b036" />
+
 
 
 
