@@ -4,7 +4,7 @@
 
 The Philippine Consumer Equity Index Fund has been having a difficult time for the past several years.
 
-It also experiences a lot of ups and downs, making it feel unstable and unpredictable. This means that people who invest in it may feel like they’re riding a bumpy road—never quite sure if things will improve. It needs careful review and improvements so it can finally get back on track.
+It also experiences a lot of ups and downs, making it feel unstable and unpredictable. This means that people who invest in it may feel like they’re riding a bumpy road—never quite sure if things will improve.
 
 
 # Problem Statement
@@ -24,6 +24,12 @@ The data used here is the historcal NAV file of 33 BPI Funds extracted from Kagg
 
 
 <img width="1255" height="706" alt="image" src="https://github.com/user-attachments/assets/736c2511-13c6-47fa-87be-cf55433fcb34" />
+
+
+
+
+<img width="756" height="178" alt="image" src="https://github.com/user-attachments/assets/d664a114-9a73-426d-86bf-ea5b14d9b6e3" />
+
 
 
 # Insights
