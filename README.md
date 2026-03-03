@@ -13,92 +13,51 @@ The fund has been unstable and slow to grow in recent years, and the goal is to 
 
 # Data
 The data used here is the historcal NAV file of 33 BPI Funds extracted from Kaggle https://www.kaggle.com/datasets/bwandowando/bpi-investment-funds-daily-data.
-The data for the Annual Risk Return and Subsector Percentages Assumed are uploaded in this porfolio.
 
 # Methodology
 
-- Excel
-- Power BI
-- CoPilot
-- Kaggle
-- Investopedia
+- Excel - Data Cleaning
+- Power BI - Dashboard
+- CoPilot - To extract the data specifically of PCEI
+- Kaggle - Source of the historical nav file
+- Investopedia - For reference and appendix
 
 
 <img width="1255" height="706" alt="image" src="https://github.com/user-attachments/assets/736c2511-13c6-47fa-87be-cf55433fcb34" />
 
 
-
-# Highlights
-
-2020
-
-Max Drawdown: It experienced its biggest and deepest drop here, showing how hard the pandemic hit the fund.
-
-Volatility: This was the bumpiest and most unstable year, with a lot of sharp ups and downs.
-
-2021
-
-Return: The fund still did not recover and ended the year below.
-
-Max Drawdown: It had a smaller drop than 2020, but the decline was still noticeable.
-
-Volatility: The ride was calmer than 2020 but still not smooth.
-
-
-2022
-
-Return: The fund again finished the year lower, showing continued difficulty.
-
-
-2023
-
-Return: The fund still ended the year in negative territory.
-
-Max Drawdown: It had another drop, though not as severe as the pandemic year.
-
-Volatility: This was one of the steadier years, with fewer dramatic swings compared to 2020–2022.
-
-
-2024 (YTD)
-
-Return: The fund started the year with a slight improvement.
-
-Max Drawdown: Only a very small dip so far.
-
-Volatility: Mild movements, but the year is still just beginning.
-
-
-
-
 # Insights
 
-- Returns were negative in 2020, 2021, 2022, and 2023
+- Returns were negative in 2020, 2021, 2022, and 2023 (All four years posted negative returns.)
 
-Solution: Add stronger, more resilient companies so the fund can grow more reliably instead of ending most years below where it started.
-(Data: All four years posted negative returns.)
+- Max Drawdown showed big drops—especially in 2020 and again in 2021–2023 (Worst declines reached deep levels in multiple years.)
 
-- Max Drawdown showed big drops—especially in 2020 and again in 2021–2023
+- Annual Volatility was high across most years (Showing an unstable ride. Volatility stayed elevated in 2020–2023 before slightly improving.)
 
-Solution: Reduce exposure to the most sensitive consumer areas (like entertainment and cyclic retail) and increase exposure to essential goods (like food and household products) to soften future drops.
-(Data: Worst declines reached deep levels in multiple years.)
+## Benchmark comparison:
 
-- Annual Volatility was high across most years (showing an unstable ride)
-   
-Solution: Add steadier companies, avoid heavy concentration in jumpy names, and rebalance toward more predictable subsectors to smooth out the fund’s ups and downs.
-(Data: Volatility stayed elevated in 2020–2023 before slightly improving.)
+<img width="534" height="101" alt="image" src="https://github.com/user-attachments/assets/9618dfff-050a-4d32-9d6c-ad22fa050dcc" />
+
+Source: https://www.bpi.com.ph/content/dam/bpi-wealth/investment-funds-pdfs/2024/bpi-philippine-consumer-equity-index-fund/BPI%20Philippine%20Consumer%20Equity%20Index%20Fund%20-%20December%202024.pdf
 
 # Recommendation
 
 ## Choose better companies to include in the fund 
 
-Think of the fund like a basket of items. If some items keep going bad, the basket won’t look good.
-The fund needs to replace weaker companies with stronger, more promising ones.
+Invest more in consumer staple companies
 
-Choices you can consider:
+Examples:
 
-“Competency level” is expressed as a simple percentage return.
-<img width="835" height="229" alt="image" src="https://github.com/user-attachments/assets/e9f5a1e1-4444-49af-878d-338aa1bb8b23" />
+Ginebra San Miguel - https://dividends.ph/company/RFM
 
+San Miguel Food & Beverage - https://finbox.com/PSE:GSMI/explorer/asset_price_return_ytd/
+
+Monde Nissin - https://finbox.com/PSE:GSMI/explorer/asset_price_return_ytd/
+
+Puregold - https://finbox.com/PSE:GSMI/explorer/asset_price_return_ytd/
+
+
+More choices in here: https://www.tradingview.com/markets/stocks-philippines/market-movers-best-performing/
 
 
 
@@ -118,13 +77,16 @@ Choices you can consider:
   
   Maximum Dropdown - This tells us the biggest fall from the highest point to the lowest point.
   
-  Consumer Sector - Is the group of businesses that sell products or services people use every day
+  Consumer Sector - Is the group of businesses that sell products or services people use every day.
   
   Consumer Discretionary - Businesses sell things people want, but don’t need to survive.
   
   Consumer Staples - Businesses sell things people need no matter what happens.
 
+  Benchmark - Benchmarks serve as a critical standard for measuring an asset's value change or other investment metrics over time.
+
 ## What Is a Fund?
+
 A fund is basically a big money pool.
 People put their money together in one large pot, and a professional (called a fund manager) uses that money to buy things like stocks, bonds, or other investments.
 
