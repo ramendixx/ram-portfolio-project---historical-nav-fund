@@ -8,7 +8,7 @@ It also experiences a lot of ups and downs, making it feel unstable and unpredic
 
 
 # Problem Statement
-The fund has been unstable and slow to grow in recent years, and the goal is to find ways to make it more steady, resilient, and consistently improving for investors.
+The current equity return is -0.32%. This should be at least a positive 3%.
 
 
 # Data
@@ -18,33 +18,41 @@ The data used here is the historcal NAV file of 33 BPI Funds extracted from Kagg
 
 - Excel - Data Cleaning
 - Power BI - Dashboard
-- CoPilot - To extract and analyze the data specifically of PCEI
+- CoPilot - To assist in data categorization for top performing funds
 - Kaggle - Source of the historical nav file
 - Investopedia - For reference and appendix
 
-
-<img width="1255" height="706" alt="image" src="https://github.com/user-attachments/assets/736c2511-13c6-47fa-87be-cf55433fcb34" />
-
-
+<img width="1886" height="881" alt="Screenshot 2026-02-26 193038" src="https://github.com/user-attachments/assets/25fb5cea-f86d-45f2-8ebd-73cd46efae25" />
+<img width="1892" height="858" alt="Screenshot 2026-02-26 193811" src="https://github.com/user-attachments/assets/b53318e4-96ed-4735-b44a-ad665e071bd4" />
 
 
-<img width="756" height="178" alt="image" src="https://github.com/user-attachments/assets/d664a114-9a73-426d-86bf-ea5b14d9b6e3" />
+
+
+<img width="1384" height="780" alt="image" src="https://github.com/user-attachments/assets/93e98cd8-b434-4de8-8142-8a93fdfd1498" />
+
+
+
+
+
+<img width="469" height="225" alt="image" src="https://github.com/user-attachments/assets/1a7835d2-756d-454f-a716-17a99ad5b460" />
+
 
 
 
 # Insights
 
-- Returns were negative in 2020, 2021, 2022, and 2023 (All four years posted negative returns.)
+- Returns were negative in 2020, 2021, 2022, up to 2025 (All six years posted negative returns.)
 
-- Max Drawdown showed big drops—especially in 2020 and again in 2021–2023 (Worst declines reached deep levels in multiple years.)
+- Max Drawdown showed big drops—especially in 2020 and again in 2021–2024 (Worst declines reached deep levels in multiple years.)
 
-- Annual Volatility was high across most years (Showing an unstable ride. Volatility stayed elevated in 2020–2023 before slightly improving.)
+- Annual Volatility was high across most years (Showing an unstable ride. Volatility stayed elevated in 2020–2021.)
 
 ## Benchmark comparison:
 
-<img width="534" height="101" alt="image" src="https://github.com/user-attachments/assets/9618dfff-050a-4d32-9d6c-ad22fa050dcc" />
+<img width="552" height="110" alt="image" src="https://github.com/user-attachments/assets/a1a6f749-09cc-4a35-83ab-59dd0125b551" />
 
-Source: https://www.bpi.com.ph/content/dam/bpi-wealth/investment-funds-pdfs/2024/bpi-philippine-consumer-equity-index-fund/BPI%20Philippine%20Consumer%20Equity%20Index%20Fund%20-%20December%202024.pdf
+
+Source: https://www.bpi.com.ph/content/dam/bpi-wealth/investment-funds-pdfs/2025/bpi-philippine-equity-index-fund/BPI%20Philippine%20Equity%20Index%20Fund%20-%20January%202025.pdf
 
 # Recommendation
 
