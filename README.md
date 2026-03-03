@@ -18,7 +18,7 @@ The data used here is the historcal NAV file of 33 BPI Funds extracted from Kagg
 
 - Excel - Data Cleaning
 - Power BI - Dashboard
-- CoPilot - To extract the data specifically of PCEI
+- CoPilot - To extract and analyze the data specifically of PCEI
 - Kaggle - Source of the historical nav file
 - Investopedia - For reference and appendix
 
