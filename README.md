@@ -1,6 +1,6 @@
 # Philippine Consumer Equity Index Fund - Fund Performance
 
-# Executive overview
+# Executive Overview
 
 The Philippine Consumer Equity Index Fund has been having a difficult time for the past several years.
 
